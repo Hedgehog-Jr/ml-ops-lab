@@ -166,3 +166,9 @@ cython_debug/
 
 # test data
 test_data/
+*/output/
+*/artifacts/
+
+# mlflow
+*/mlruns/
+mlflow.db
