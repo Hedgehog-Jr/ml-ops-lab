@@ -172,3 +172,9 @@ test_data/
 # mlflow
 */mlruns/
 mlflow.db
+
+# saved models
+*/models/
+
+# evidently
+*/workspace/
